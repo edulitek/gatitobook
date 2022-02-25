@@ -20,4 +20,4 @@ import { NovoUsuarioComponent } from './novo-usuario/novo-usuario.component';
   ],
   exports: [HomeComponent],
 })
-export class HomeModule { }
+export class HomeModule {}
